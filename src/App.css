@@ -72,14 +72,14 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 
 
 
 .randomUser {
 	box-shadow:inset 0px 1px 14px 0px #cf866c;
-	background:linear-gradient(bottom, #d0451b 5%, #bc3315 100%);
+	background:linear-gradient(to bottom, #d0451b 5%, #bc3315 100%);
 	background-color:#d0451b;
 	border-radius:15px;
 	border:1px solid #942911;
@@ -95,7 +95,7 @@
   bottom: -3rem;
 }
 .randomUser:hover {
-	background:linear-gradient(bottom, #e1d9d7 5%, #1ba6d0 100%);
+	background:linear-gradient(to bottom, #e1d9d7 5%, #1ba6d0 100%);
 	background-color:#3615bc;
 }
 
